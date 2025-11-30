@@ -1,16 +1,11 @@
+#deity #gaia
 
 ---
-tags:
-  - deity
-  - gaia-children
 domain: Wind, Change, Adaptation, Freedom
 alignment: Chaotic Neutral
 symbol: Spiral of air, feather drifting on wind, circling swallows
 colors: White, sky blue, pale gold
 sacred-animals: Swallow, hawk, butterfly, horse
-parent: Gaia
----
-
 # Zephyr - The Breath of Change
 
 ## Overview
@@ -110,9 +105,9 @@ From Elara's perspective, Zephyr:
 - Calls to her through instinct and wind patterns
 - Guided her to her mentor [[Aequorin]]
 - Brought her to [[Tamuel Markath]]
-- Led her to [[Richard Mortis]], [[Zennic]], and [[Atasche]]
+- Led her to [[Richard Mortis]], [[People/Zennic]], and [[People/Atasche]]
 
-The wind doesn't make mistakesâ€”it simply redirects.
+The wind doesn't make mistakes--it simply redirects.
 
 ## Divine History
 
@@ -124,6 +119,14 @@ Participated in the **Divine War of the Faithful** (ended ~800 years ago, lasted
   - Existence of world is threatened
   - Something approaches divinity
 
+## Rituals: 
+The Breath Prayer: Worshippers release a whispered plea into the wind, believing Zephyr will carry it where it must go. 
+The Sky Lanterns: At festivals, paper lanterns are released into the wind as offerings, symbolizing freedom and release. 
+The Gale Oath: A vow spoken atop a cliff or in the open air, sealed by the winds themselves.
+    
+## Myths & Legends 
+The Whisper of Lovers: Zephyr once carried the words of two separated lovers across leagues of desert, reuniting them through the wind’s whispered song. The Storm of Freedom: When a tyrant sought to cage his people, Zephyr stirred a gale that shattered his fortress, scattering its stones to the four corners. 
+The Last Breath: In ancient times, when the first mortal died, it was Zephyr who bore her final breath away.
 ## Nature of Zephyr's Divinity
 
 Unlike gods with grand plans or causes, Zephyr simply *is*:
