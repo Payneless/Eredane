@@ -1,4 +1,18 @@
-# The Sun Father
+---
+tags:
+  - deity
+  - lower-god
+domain: Sun
+parent_god: Tylus
+alignment: Lawful Neutral
+symbol: Rising sun or golden rays
+patron_to:
+  - Daliya Sunstride
+---
+
+# Lexorr - The Sun Father
+
+God of the sun, light, dawn, and the illuminating power that drives away darkness. Bound to eternal separation from Nephy by Tylus's curse.
 
 ## Overview
 
@@ -8,7 +22,7 @@ Lexorr, known as the Sun Father and celebrated at Dawn, is one of [[Tylus]]'s ch
 
 ### Lexorr's Version of the Myth
 
-Long ago, Lexorr and Nephy stood together as guardians of Light's balanceâ€”the twin orbs of day and night. But the jealous trickster [[Khinir]] (Deceit) whispered a lie into their hearts: that only one of them could shine at a time, lest the world burn or freeze. 
+Long ago, Lexorr and [[Nephy]] stood together as guardians of Light's balanceâ€”the twin orbs of day and night. But the jealous trickster [[Khinir]] (Deceit) whispered a lie into their hearts: that only one of them could shine at a time, lest the world burn or freeze. 
 
 In a desperate attempt to protect creation, [[Tylus]] bound them to this cycle, cursing them to eternal separationâ€”never together, always chasing. Thus was born the eternal dance of sun and moon.
 
@@ -18,7 +32,7 @@ Some myths whisper that if they were to meet again in the sky, the world would e
 
 ### Nephy's Perspective
 
-When Lexorr was bound by Tylus's curse, [[Nephy]] was caught in its mirror. She is doomed to chase him across the heavens, never to catch him. Mortals believe the waxing and waning of the moon reflect her closeness to himâ€”full when she nearly reaches him, new when she has fallen behind. 
+When Lexorr was bound by [[Tylus]]'s curse, [[Nephy]] was caught in its mirror. She is doomed to chase him across the heavens, never to catch him. Mortals believe the waxing and waning of the moon reflect her closeness to himâ€”full when she nearly reaches him, new when she has fallen behind. 
 
 Eclipses are the moments she looses her arrow of longing, brushing against him for the briefest of embraces before they part once more.
 
@@ -28,12 +42,12 @@ Eclipses are the moments she looses her arrow of longing, brushing against him f
 
 Lexorr has heavy influence in the [[Skuviri Dominion]]:
 - [[Sahira al-Namaris]] claims descent from the first priest-king who received Lexorr's light
-- She is believed to be child of Lexorr and Nephy (despite their separation)
-- The **Palace of the Twin Flames** is where Lexorr's light and Nephy's shadow meet in ritual
+- She is believed to be child of Lexorr and [[Nephy]] (despite their separation)
+- The **Palace of the Twin Flames** is where Lexorr's light and [[Nephy]]'s shadow meet in ritual
 
 ### Temples & Worship
 
-**In Ar'shahm**
+**In [[Ar'shahm]]**
 The temple of Lexorr dominates the town center, its sun-bright dome visible for miles across the dunes. [[Daliya Sunstride]] serves there, maintaining traditions her missionary father established generations ago.
 
 **Celebration**
@@ -77,7 +91,7 @@ Lexorr represents:
 ### The Sunstride Family
 
 Despite [[Elara Sunstride]] being raised by a cleric of Lexorr ([[Daliya Sunstride]]), she never felt called to the Sun Father:
-- Perhaps the scars of Qara'sul's drought ran too deep
+- Perhaps the scars of [[Qara'Sul]]'s drought ran too deep
 - Perhaps her soul needed something that moved rather than blazed
 - She kept the Sunstride name as honor to her adoptive family
 - They accepted her path with quiet grace
@@ -88,7 +102,7 @@ Despite [[Elara Sunstride]] being raised by a cleric of Lexorr ([[Daliya Sunstri
 
 ## Divine Power
 
-As one of Tylus's children and with heavy worship in the Skuviri Dominion, Lexorr ranks high in divine influence:
+As one of [[Tylus]]'s children and with heavy worship in the [[Skuviri Dominion]], Lexorr ranks high in divine influence:
 - Multiple Ikons likely serve him
 - [[Sahira al-Namaris]] may be an Ikon
 - The Dominion's military strength reflects his power
@@ -96,19 +110,19 @@ As one of Tylus's children and with heavy worship in the Skuviri Dominion, Lexor
 ## Theological Questions
 
 **The Curse**
-- Was Tylus protecting creation or punishing his children?
-- Did Khinir truly deceive them or reveal truth?
-- What would happen if Lexorr and Nephy truly reunited?
+- Was [[Tylus]] protecting creation or punishing his children?
+- Did [[Khinir]] truly deceive them or reveal truth?
+- What would happen if Lexorr and [[Nephy]] truly reunited?
 
 **The Separation**
 - Can true love exist across eternal distance?
 - Is the curse protection or prison?
-- Do Lexorr and Nephy resent their fate or accept it?
+- Do Lexorr and [[Nephy]] resent their fate or accept it?
 
 ## Connection to Campaign
 
 Lexorr's influence touches the campaign through:
 - Elara's upbringing and adoptive family
-- The Skuviri Dominion's political structure  
+- The [[Skuviri Dominion]]'s political structure  
 - The Legions of Flame and Dust
 - The eternal myth that shapes how people view love and separation
