@@ -101,11 +101,11 @@ Her oath: *"I pledge my life in your name, Zephyr, and I vow to represent the Wi
 ## Elara's Understanding
 
 From Elara's perspective, Zephyr:
-- Saved her by guiding the caravan to find her in [[Qara'sul]]
+- Saved her by guiding the caravan to find her in [[Qara'Sul]]
 - Calls to her through instinct and wind patterns
 - Guided her to her mentor [[Aequorin]]
 - Brought her to [[Tamuel Markath]]
-- Led her to [[Richard Mortis]], [[People/Zennic]], and [[People/Atasche]]
+- Led her to [[Richard Mortis]], [[Zennic]], and [[Private/People/Atasche]]
 
 The wind doesn't make mistakes--it simply redirects.
 
