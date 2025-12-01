@@ -10,7 +10,6 @@
 
 ### Morning
 - Elara forgets her bag on walk to class, must rush back before it starts
-- Discovers nothing unusual upon retrieval
 - Rumor circulating about horrid dreams affecting some people
 
 ### Classes
@@ -24,7 +23,7 @@
 - Training at battleground with group
 - Atasche mentions having a weird dream but refuses to discuss details
 
-### New Contact: Ellen
+### New Contact: [[Ellen]]
 - Elf, 4th year student
 - Specialization: Mirror magic and illusions with reflective focus
 - Background: Family involved in mirror artistry, didn't initially choose path
