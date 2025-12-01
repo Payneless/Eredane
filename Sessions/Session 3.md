@@ -14,7 +14,7 @@
 - Rumor circulating about horrid dreams affecting some people
 
 ### Classes
-- General coursework
+- [[Hall of Theosophy]]
 
 ### After Classes
 - Girl approaches claiming the group got in "the wrong way"
@@ -36,7 +36,7 @@
 ## Day 2
 
 ### Classes
-- Studying history and theology
+- [[Elective]]
 
 ### Library Discovery
 - Found old thesis containing mention of "**The Prism**"
@@ -78,9 +78,9 @@
 ### At the Tavern
 - Gets drink, sits at table appearing busy
 
-### Contact: Maela Vos
+### Contact: [[Maela Vos]]
 - Half-orc woman, cloaked figure
-- **Connection to Tamuel:** She was involved with Tamuel; he had issues with some extremes of the Ashen Concord
+- **Connection to [[Tamuel Markath|Tamuel]]:** She was involved with [[Tamuel Markath|Tamuel]]; he had issues with some extremes of the Ashen Concord
 - **Her vision:** Sees continuation of the circle to create change in the world, to light shadows and be a beacon
 - **Her concern with Darrin:** Sees him as someone who does not seek to make change happen
 - **Not wanting wedge:** Emphasizes she doesn't want to create division between Elara and the Rector
@@ -125,7 +125,7 @@
 
 ## Rumors
 
-### Kaz's Journal
+### [[Kaz]]'s Journal
 - Petalbound journal rumored to hold dual scripts
 - Soft Sylvan letters blooming like flowers (her normal writing)
 - Second hand: sharp and swirling strokes, too alien to be hers
@@ -137,12 +137,12 @@
 - [ ] What is The Prism?
 - [ ] Why was the thesis book removed?
 - [ ] What's beneath the school?
-- [ ] What triggered Ronin's transformation?
+- [ ] What triggered [[Ronin]]'s transformation?
 - [ ] What is the reflection phenomenon?
-- [ ] Who/what is writing in Kaz's journal?
+- [ ] Who/what is writing in [[Kaz]]'s journal?
 - [ ] What does the Civic Purity Council want?
 
 ## NPCs Encountered
-- **Ellen** - 4th year, mirror magic specialist
+- **[[Ellen]]** - 4th year, mirror magic specialist
 - **[[Maela Vos]]** - Half-orc, connected to [[Tamuel Markath|Tamuel]], Ashen Concord
-- **Civic authorities** - Xotena cleric, magisters, suited figures
+- **Civic authorities** - [[Xotena]] cleric, magisters, suited figures
