@@ -33,6 +33,6 @@ Ellen wants to meet the rest of Elara's group. She was introduced to Richard fir
 
 ## Notes
 
-- Aware that the group "got in the wrong way" (or claims to be aware of this)
+- Aware that the group "got in the wrong way"
 - Potential connection to the reflection phenomenon occurring around the Academy
 - Her mirror magic background may make her valuable in understanding the strange reflections seen in water
