@@ -133,13 +133,13 @@
 ---
 
 ## Key Mysteries
-- [ ] What is The Prism?
+- [x] What is The Prism?
 - [ ] Why was the thesis book removed?
-- [ ] What's beneath the school?
-- [ ] What triggered [[Ronin]]'s transformation?
+- [x] What's beneath the school?
+- [x] What triggered [[Ronin]]'s transformation? Defense
 - [ ] What is the reflection phenomenon?
 - [ ] Who/what is writing in [[Kaz]]'s journal?
-- [ ] What does the Civic Purity Council want?
+- [x] What does the Civic Purity Council want? - Holt gone, control of school
 
 ## NPCs Encountered
 - **[[Ellen]]** - 4th year, mirror magic specialist

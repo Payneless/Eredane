@@ -11,3 +11,6 @@ symbol: Unknown
 # Agrasyn - The Necromancer
 
 God of necromancy and the ability to commune with and command the dead.
+
+[[Richard]] seems to be connected to him
+
