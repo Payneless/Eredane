@@ -216,9 +216,8 @@ About an hour later, we exit the city onto the road elsewhere.
 - Who is Agent Echo?
 - What is the Sable Dominion's full agenda?
 - What killed Kilo Trenfall?
-- What do the symbols (pillar, lion, arrow, vault) mean?
 - What is the nature of the nine shadows in the vision?
-- Who is the faceless woman weaving golden thread?
+- Who is the faceless woman weaving golden thread? Weaver of Fate
 - What happened to the Oracle of Fate?
 - What is Richard's full story and his "friend down there"?
 - Where is the sending stone going?
