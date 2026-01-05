@@ -1,8 +1,8 @@
 # Session 6: The Vault and Departure
 
 **Date:** 1/4/2026  
-**In-Game Date:** TBD  
-**Start Location:** Lyceum Grounds  
+**In-Game Date:** 1st Mischra 2187
+**Start Location:** Lyceum
 **End Location:** Road outside Tiranos  
 **Objective:** Investigate the mysterious letter, explore the vault, and decide the party's future
 
