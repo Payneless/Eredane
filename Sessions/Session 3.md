@@ -136,7 +136,7 @@
 - [x] What is The Prism?
 - [ ] Why was the thesis book removed?
 - [x] What's beneath the school?
-- [x] What triggered [[Ronin]]'s transformation? Defense
+- [x] What triggered [[Ronan]]'s transformation? Defense
 - [ ] What is the reflection phenomenon?
 - [ ] Who/what is writing in [[Kaz]]'s journal?
 - [x] What does the Civic Purity Council want? - Holt gone, control of school

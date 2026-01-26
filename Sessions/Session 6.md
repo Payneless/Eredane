@@ -16,7 +16,7 @@ Find Cai Thorne outside sitting in the shade. Pickup magic robes at desk in obse
 
 ## The Embarrassing Incident
 
-The most embarrassing, awful situation has happened, forever shaming [[Zennick]] and [[Kaz]]. [[Ronin]] saves the day.
+The most embarrassing, awful situation has happened, forever shaming [[Zennick]] and [[Kaz]]. [[Ronan]] saves the day.
 
 ---
 
@@ -50,7 +50,7 @@ A letter arrives, sealed with black wax bearing a 3-pointed star.
 
 > "Whatever this was, was magic." - Professor Voss
 
-Clutched in Kilo's hand is a piece of paper. [[Ronin]] leans down and takes it.
+Clutched in Kilo's hand is a piece of paper. [[Ronan]] leans down and takes it.
 
 ### The Note
 
@@ -113,7 +113,7 @@ He admits he doesn't feel he can protect us.
 
 The party proceeds down. [[Elara Sunstride|Elara]] slips on the stairs. [[Atasche]] catches her, but **Richard** tumbles over the edge and hits the ground.
 
-[[Ronin]] runs down while [[Kaz]] and [[Laogys]] fly.
+[[Ronan]] runs down while [[Kaz]] and [[Laogys]] fly.
 
 Lay on hands eventually breathes life back into Richard, but [[Elara Sunstride|Elara]] notices something, a resistance to the healing. A foreign entity is present.
 

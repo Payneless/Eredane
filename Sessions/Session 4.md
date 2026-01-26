@@ -2,7 +2,7 @@
 
 **[[Atasche]]'s Demonic Manifestation & Consequences**
 
-- [[Atasche]] transformed into something demonic during a training ground incident; [[Ronin]] was injured
+- [[Atasche]] transformed into something demonic during a training ground incident; [[Ronan]] was injured
 - [[Atasche]] was taken into custody by guards; party blocked from following
 - Elara informed House Ferrin of the situation (head of house visibly shaken, muttered expletive before dismissing her)
 - Rector Holt confirmed: not fully demon, but demonic origin with connection to **[[Umbris]]** (god of the Abyss)
@@ -22,7 +22,7 @@
 - [[Richard]] discovered his soul was claimed by **[[Agrasyn]]** (turned into a physical object)
 - [[Laogys]] found a necromantic book with unknown origins
 - [[Zennick]] & [[Kaz]] explored volunteering at the city forge
-- [[Ronin]] researched and found prior demonic encounters (transformation triggered defensively)
+- [[Ronan]] researched and found prior demonic encounters (transformation triggered defensively)
 - Party met with Rector Holt to discuss [[Atasche]]'s situation and the larger conspiracy
 
 ---
