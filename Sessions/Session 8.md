@@ -193,7 +193,7 @@ Early 20s appearance, strawberry blonde hair, freckles on cheeks, cheerful demea
 
 ---
 
-## Ronin's Blade Origin
+## [[Ronan]]'s Blade Origin
 
 ### The Mystery of the Sword
 
@@ -209,7 +209,7 @@ Early 20s appearance, strawberry blonde hair, freckles on cheeks, cheerful demea
 
 ---
 
-## Richard's Update and Fortuna's Summons
+## [[Richard]]'s Update and Fortuna's Summons
 
 [[Richard]] arrives with information that [[Fortuna]] wishes to meet with [[Elara Sunstride|Elara]].
 
