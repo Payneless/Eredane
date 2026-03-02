@@ -30,7 +30,7 @@ Animos governs the Life Domain, embodying vitality, healing, fertility, love, an
 - **[[Radona]]** - Fertility
 - **[[Seraphel]]** - Love
 - **[[Eradyn]]** - Hearth
-- **[[Avzol]]** - Beast
+- **[[Avzot]]** - Beast
 
 ## Power & Influence
 
