@@ -6,12 +6,12 @@
 
 ### Umbrealis
 
-### Aestherin
-12th of Aestherin -> [[Elara Sunstride]] Birthday
+### Aetherin
+12th of Aetherin -> [[Elara Sunstride]] Birthday
 ### Vitanne
 
 ### Valoris
-22nd of Valoris -> Kaz Birthday
+22nd of Valoris -> Kaz Birthday, Laogys Birthday
 ### Verdanis
 
 ### Mortalis
