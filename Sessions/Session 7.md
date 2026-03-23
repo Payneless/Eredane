@@ -15,5 +15,5 @@ Laogys undead book
 Kaz Fiend
 
 
-Interaction on road with probable Ikon of Richards god
+Interaction on road with probable Ikon of Richards god Agrasyn
 Kaz has journal with two writings in it 
