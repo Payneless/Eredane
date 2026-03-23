@@ -1,10 +1,10 @@
 
-| **Date**           | 3/22/2026                                |
-| ------------------ | ---------------------------------------- |
-| **In-Game Date**   | 18th-19th Mischra                        |
-| **Start Location** | [[Avenne]]                               |
-| **End Location**   | [[Avenne]]                               |
-| **Objective**      | Investigate the Rot / Festival Games     |
+| **Date**           | 3//2026                              |
+| ------------------ | ------------------------------------ |
+| **In-Game Date**   | 18th-19th Mischra                    |
+| **Start Location** | [[Avenne]]                           |
+| **End Location**   | [[Avenne]]                           |
+| **Objective**      | Investigate the Rot / Festival Games |
 
 **Key NPCs:** Brother Orville (priest), local farmer (crop complaint), town guards/officials
 
