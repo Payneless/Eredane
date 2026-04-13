@@ -8,6 +8,6 @@ alignment: Unknown
 symbol: Unknown
 ---
 
-# Shadali - The Void
+# Shadall - The Void
 
 God of the void, empty spaces, and the nothingness that predates creation.

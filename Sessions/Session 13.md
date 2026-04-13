@@ -77,7 +77,7 @@
 ---
 
 **Outstanding Questions**
-- [ ] What is the Sable Dominion's interest in Avenne's agriculture?
+- [ ] What is the Sable Dominion's interest in [[Avenne]]'s agriculture?
 - [ ] Who was the agent, and why did they have a self-destruct mechanism?
 - [ ] Is the poisoning connected to broader Sable Dominion operations?
 - [ ] What was the tristar symbol's significance beyond identification?

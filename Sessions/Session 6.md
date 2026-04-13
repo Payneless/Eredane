@@ -3,7 +3,7 @@
 **Date:** 1/4/2026  
 **In-Game Date:** 1st Mischra 2187
 **Start Location:** Lyceum
-**End Location:** Road outside Tiranos  
+**End Location:** Road outside [[Tiranos]]  
 **Objective:** Investigate the mysterious letter, explore the vault, and decide the party's future
 
 ---
@@ -227,5 +227,5 @@ About an hour later, we exit the city onto the road elsewhere.
 ## Session End
 
 **Rest:** TBD  
-**End Location:** Road outside Tiranos  
+**End Location:** Road outside [[Tiranos]]  
 **Closing:** The party leaves the Lyceum behind, secrets in hand, darkness at their heels

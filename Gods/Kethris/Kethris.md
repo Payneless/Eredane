@@ -24,7 +24,6 @@ Kethris governs the Death Domain, embodying mortality, rest, transition, and the
 - **[[Seris]]** - Grave
 - **[[Tethun]]** - Transition
 - **[[Agrasyn]]** - Necromancy
-- **[[Umbris]]** - Abyss (most hated lesser god)
 
 ## Philosophy
 

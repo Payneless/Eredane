@@ -2,7 +2,7 @@
 
 **Date:** 11/23/2025  
 **In-Game Date:** 9th Somnara 2187  
-**Start Location:** Tiranos  
+**Start Location:** [[Tiranos]]  
 **Objective:** Learn about the structure of the Lyceum
 
 ---
@@ -78,4 +78,4 @@ After class, Elara heads to the battlegrounds to train. She sends a message to R
 ## Session End
 
 **Rest:** Long Rest  
-**End Location:** Tiranos
+**End Location:** [[Tiranos]]

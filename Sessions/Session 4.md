@@ -54,15 +54,15 @@
 ## Answered Questions
 
 - [x]  **What's beneath the school?** - The Prism (a room, not an object; pre-Divine War era; abjurative magic; purpose unknown but extremely powerful)
-- [x]  **What triggered Ronin's transformation?** - Defense mechanism (demonic origin, not fully demon, connected to Umbris)
+- [x]  **What triggered Ronin's transformation?** - Defense mechanism (demonic origin, not fully demon, connected to [[Umbris]])
 - [x]  **What does the Civic Purity Council want?** - Control of the Academy; Holt gone; there's "something more at play"
 - [x]  **Why was the thesis book removed?** - Someone deliberately took it; likely premeditated, conducted outside the school by someone with prior knowledge; handwriting doesn't match anyone on staff
 
 ## Outstanding Questions
 
 - [ ]  **What is The Prism exactly?** - Still largely mysterious; room has never been opened; could be waiting for the right person or locked eternally; Holt has never been inside, neither have previous Rectors
-- [ ]  **What is the reflection phenomenon?** - Maela Vos is aware of it and confirms it's "a known phenomenon," but no explanation given
-- [ ]  **Who/what is writing in Kaz's journal?** - Still unanswered
+- [ ]  **What is the reflection phenomenon?** - [[Maela Vos]] is aware of it and confirms it's "a known phenomenon," but no explanation given
+- [ ]  **Who/what is writing in [[Kaz]]'s journal?** - Still unanswered
 - [ ]  **Who placed the book note about "the Prism"?** - Premeditated, likely outside research, but identity unknown
 - [ ]  **Is there a student with Council connections?** - Holt suspects yes, but hasn't confirmed who
-- [ ]  **What exactly is Atasche?** - Demonic origin confirmed, but specifics remain unclear (no info on half-breeds yet)
+- [ ]  **What exactly is [[Atasche]]?** - Demonic origin confirmed, but specifics remain unclear (no info on half-breeds yet)

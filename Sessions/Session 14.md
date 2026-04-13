@@ -22,7 +22,7 @@
   - Isn't confident any of them have enough knowledge about [[Atasche]]'s situation
 - Elara raises the topic of multiple party members getting tied to necromancy - does it bother him?
 - Elara asks if there's a specific deity Zennick finds interesting or wishes to follow:
-  - **The Tinkerer** - a craftsman deity who interacted with him in a dream
+  - **[[Tinker| The Tinkerer]]** - a craftsman deity who interacted with him in a dream
   - The Tinkerer knew about Zennick's creator and others around, but none up to Zennick's sophistication
   - The capital of the empire, far east, creates robots for destruction
   - Zennick wants to explore other deities but worries about the danger they could bring to the group
@@ -30,7 +30,7 @@
 
 ## Training and Departure Plans
 
-- Elara heads out to train; [[Atasche]] and [[Richard]] are there, Richard interested in learning martial combat
+- [[Elara Sunstride]] heads out to train; [[Atasche]] and [[Richard]] are there, Richard interested in learning martial combat
 - Elara plans to train, pick up rations, and set out shortly after noon
 - Discusses with [[Ronan]] about being involved with the Sable Dominion and what to do about them
 
@@ -74,7 +74,7 @@
 - **House Fareth** - seems familiar with Richard and Atasche; says as long as no one interferes with their business
 - **House Lysmere** - acquaintance made
 - **House Brennol** - acquaintance made
-- **Misha** - less tied to houses, more tied to the city itself; protector of the city, follower of Flora
+- **[[Misha]]** - less tied to houses, more tied to the city itself; protector of the city, follower of Flora
   - Certain unnamed organizations have not acted like this before; the fact they're acting now is confusing and concerning, especially alongside the Lyceum events
   - Suggests a meeting of **the Concordium** may be in order
   - If the council was involved, that could be connected - seems strange unless certain unnamed parties are involved
@@ -111,10 +111,10 @@
 **Outstanding Questions**
 - [ ] Who orchestrated the Lyceum attack and the gala attack - are they connected?
 - [ ] What is "the collective" and "the inquisition" the beggar referenced?
-- [x] Who is the woman with the strong celestial presence at the gala? - Misha
+- [x] Who is the woman with the strong celestial presence at the gala? - [[Misha]]
 - [ ] What was House Lysmere's role - absent during the attack?
-- [x] What were the "influences" on Richard and Laogys in the side room? - Drugs
+- [x] What were the "influences" on [[Richard]] and [[Laogys]] in the side room? - Drugs
 - [ ] Who or what is siphoning souls from the burning manor?
 - [ ] What information can be extracted from the captured attacker?
-- [ ] What is the Concordium, and will Misha call a meeting?
-- [x] Who interrogated Atasche and Richard, and what organization do they represent? - House Fareth
+- [ ] What is the Concordium, and will [[Misha]] call a meeting?
+- [x] Who interrogated [[Atasche]] and [[Richard]], and what organization do they represent? - House Fareth

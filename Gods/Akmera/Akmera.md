@@ -21,7 +21,7 @@ Akmera governs the Shadow Domain, embodying darkness, the void, and the sufferin
 
 **Shadow Domain**
 - **[[Umbris]]** - Abyss
-- **[[Shadali]]** - Void
+- **[[Shadall]]** - Void
 - **[[Gehenna]]** - Misery
 
 ## Power & Influence

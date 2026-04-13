@@ -22,7 +22,7 @@ Ekryn governs the War Domain, embodying conflict, valor, strategy, and martial p
 **War Domain**
 - **[[Hatarr]]** - Smithing
 - **[[Galos]]** - Tactics
-- **[[Lumen]]** - Weaponry
+- **[[Lunien]]** - Weaponry
 
 ## Divine War of the Faithful
 

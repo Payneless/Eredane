@@ -10,7 +10,7 @@
 
 **Notable Items:** Enhanced Staff of the Python (left in yuan-ti temple)
 
-**Unresolved:** Identity/organization of memory agents, yuan-ti temple and its significance, necromancer traveler's purpose, Harvest Festival in Avenne
+**Unresolved:** Identity/organization of memory agents, yuan-ti temple and its significance, necromancer traveler's purpose, Harvest Festival in [[Avenne]]
 
 ---
 
@@ -48,7 +48,7 @@
 
 - [[Elara Sunstride|Elara]] notes most yuan-ti tribes would be criminals or threats - they worship the Great Serpent
 - Party debates; only one yuan-ti appears able to move
-- [[Ronan]] and [[Zennick]] stay behind with Alice; the rest venture up
+- [[Ronan]] and [[Zennick]] stay behind with [[Alice]]; the rest venture up
 
 - [[Richard]] says *"we come in peace"* - the yuan-ti charges
 - [[Laogys]] blasts it; life leaves its eyes

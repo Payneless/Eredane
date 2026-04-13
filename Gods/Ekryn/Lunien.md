@@ -8,6 +8,6 @@ alignment: Unknown
 symbol: Unknown
 ---
 
-# Lumen - The Weaponsmith
+# Lunien - The Weaponsmith
 
 God of weaponry and the crafting of arms designed to strike swift and true.

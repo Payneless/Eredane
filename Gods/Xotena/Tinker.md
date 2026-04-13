@@ -6,6 +6,8 @@ domain: Crafting
 parent_god: Xotena
 alignment: Unknown
 symbol: Unknown
+aliases:
+  - The Tinkerer
 ---
 
 # Tinker - The Crafter

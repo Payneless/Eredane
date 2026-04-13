@@ -24,10 +24,10 @@ Akros governs the Arcane Domain, embodying magic, knowledge, transmutation, and 
 ## Domain & Lower Gods
 
 **Arcane Domain**
-- **[[Aegis]]** - Divination
-- **[[Zyris]]** - Conjuration
-- **[[Varos]]** - Enchantment
-- **[[Iena]]** - Evocation
+- **[[Aegis]]** - Abjuration
+- **[[Zyrin]]** - Conjuration
+- **[[Reval]]** - Divination
+- **[[Iena]]** - Enchantment
 - **[[Agryn]]** - Transmutation
 - **[[Flux]]** - Transmutation
 

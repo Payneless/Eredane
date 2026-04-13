@@ -3,7 +3,7 @@
 
 **Date:** 1/25/2026  
 **In-Game Date:** 2nd Mischra 2187  
-**Start Location:** Road outside Tiranos  
+**Start Location:** Road outside [[Tiranos]]  
 **End Location:** [[Marodae]]  
 **Objective:** Travel to [[Marodae]] and settle in
 
