@@ -92,7 +92,7 @@ A spiral staircase descends into darkness.
 
 We turn to find the group, but [[Elara Sunstride|Elara]] walks off toward the pit. [[Atasche]] barely saves her. We appear inside the tunnel, forgetting what just happened, only remembering the tunnel stretching.
 
-[[Professor Voss]] finds us and brings us to the Rector's office.
+Professor Voss finds us and brings us to the Rector's office.
 
 ---
 
@@ -167,11 +167,11 @@ A crystal wall stands before us.
 
 [[Elara Sunstride|Elara]] and [[Kaz]] reach out and place their hands on the wall. A vision appears:
 
-- A silver-lit city floating above the world
-- A river of light splitting like a prism
-- A woman with no face weaving a golden thread
-- Nine shadows trying to break the weave from below
-- A lantern between them
+- A silver-lit city floating above the world - ?
+- A river of light splitting like a prism - ?
+- A woman with no face weaving a golden thread - Probably the Weaver?
+- Nine shadows trying to break the weave from below - Lantern's circle?
+- A lantern between them - See above
 
 ---
 

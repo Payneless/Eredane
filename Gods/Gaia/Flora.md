@@ -6,6 +6,7 @@ domain: Plant
 parent_god: Gaia
 alignment: Unknown
 symbol: Unknown
+Ikon: Misha
 ---
 
 # Flora - The Growth

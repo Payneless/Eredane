@@ -6,6 +6,7 @@ domain: Fire
 parent_god: Gaia
 alignment: Unknown
 symbol: Unknown
+Ikon: Alice
 ---
 
 # Pyre - The Flame

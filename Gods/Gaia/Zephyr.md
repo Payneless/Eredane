@@ -6,7 +6,7 @@ domain: Air
 parent_god: Gaia
 alignment: Unknown
 symbol: Unknown
-patron_to:
+Ikon:
   - Elara Sunstride
 ---
 
