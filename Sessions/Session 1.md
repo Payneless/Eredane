@@ -2,9 +2,9 @@
 
 **Date:** 11-16-2025  
 **In-Game Date:** 8th Somnara 2187  
-**Start Location:** Dovisar  
-**End Location:** Tiranos  
-**Objective:** Travel to Tiranos and be sorted into houses
+**Start Location:** [[Dovisar]]  
+**End Location:** [[Tiranos]]  
+**Objective:** Travel to [[Tiranos]] and be sorted into houses
 
 ---
 

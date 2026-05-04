@@ -12,4 +12,4 @@ Ikon:
 
 # Zephyr - The Wind
 
-God of air, wind, change, and freedom. Most approachable of Gaia's children. Patron to Elara Sunstride.
+God of air, wind, change, and freedom. Most approachable of [[Gaia]]'s children. Patron to [[Elara Sunstride]].

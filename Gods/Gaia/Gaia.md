@@ -32,7 +32,7 @@ Gaia governs the Nature Domain, embodying the primal forces of earth, air, fire,
 
 ## Zephyr - Most Approachable
 
-[[Zephyr]] is the most approachable of Gaia's children, embodying a serene and adaptive personality. While generally chill and not heavily followed, Zephyr has close connections to [[Animos]] and [[Seraphel]].
+[[Zephyr]] is the most approachable of Gaia's children, embodying a serene and adaptive personality. While generally chill and not heavily followed, [[Zephyr]] has close connections to [[Animos]] and [[Seraphel]].
 
 ## Notable Followers
 

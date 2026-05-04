@@ -11,7 +11,7 @@
 ### Vitanne
 
 ### Valoris
-22nd of Valoris -> Kaz Birthday, Laogys Birthday
+22nd of Valoris -> [[Kaz]] Birthday, [[Laogys]] Birthday
 ### Verdanis
 
 ### Mortalis
@@ -23,7 +23,7 @@
 ### Luminor
 
 ### Tyrenna
-6th of Tyrenna  -> Atasche Birthday
+6th of Tyrenna  -> [[Atasche]] Birthday
 ### Savrosin
 
 ## Days

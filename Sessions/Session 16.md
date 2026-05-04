@@ -1,18 +1,18 @@
 # Session Summary: House Lysmere Messed Up
 
-**Date:** April 19, 2026 | **In-Game:** 28th of Mishra | **Location:** Lord Aerthyn's Estate → Avenne
+**Date:** April 19, 2026 | **In-Game:** 28th of Mishra | **Location:** Lord Aerthyn's Estate → [[Avenne]]
 
 ## **Evening: Lord Aerthyn's Estate**
 
 1. **Confrontation concludes** – Party defeats/captures the threat
-2. **Misha delivers final warning** – Prisoner says "More is coming, the fate of this world is sealed" before dying
+2. **[[Misha]] delivers final warning** – Prisoner says "More is coming, the fate of this world is sealed" before dying
 3. **Short rest taken**
 4. **Lord Aerthyn reward** – Gold + silvered decanter of endless water
-5. **Misha reveals "Ikon" system** – Explains awakening, divine binding, loss of personal agency
+5. **[[Misha]] reveals "Ikon" system** – Explains awakening, divine binding, loss of personal agency
 6. **Strategic discussion** – Lord Aerthyn proposes:
-    - Party stays to help rebuild Avenne
+    - Party stays to help rebuild [[Avenne]]
     - He'll make connection to House Brennol
-    - Eventually inform Vassalor (major Sable Dominion opponent)
+    - Eventually inform [[Vassalor]] (major Sable Dominion opponent)
 7. **Party agrees to stay**
 
 ---

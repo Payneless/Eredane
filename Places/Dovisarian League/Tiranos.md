@@ -12,7 +12,7 @@
 - **Founded:** 1723 (464 years old)
 - **Origin:** Offshoot of Arcane Collegia of Vaelion
 - **Status:** Well-maintained but not as prestigious as Vaelion
-- **Leader:** Rector Darrin Holt (Lantern's Circle member)
+- **Leader:** [[Rector Darrin Holt]] (Lantern's Circle member)
 
 ## Noble Houses of Tiranos
 
@@ -49,4 +49,4 @@
 
 ## Significance
 
-Education center of Dovisarian League. Houses focused on innovation, magical study, and artistic experimentation. Connection to Lantern's Circle through Rector Darrin Holt.
+Education center of [[Dovisarian League]]. Houses focused on innovation, magical study, and artistic experimentation. Connection to Lantern's Circle through [[Rector Darrin Holt]].

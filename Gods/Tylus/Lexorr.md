@@ -12,7 +12,7 @@ patron_to:
 
 # Lexorr - The Sun Father
 
-God of the sun, light, dawn, and the illuminating power that drives away darkness. Bound to eternal separation from Nephy by Tylus's curse.
+God of the sun, light, dawn, and the illuminating power that drives away darkness. Bound to eternal separation from [[Nephy]] by [[Tylus]]'s curse.
 
 ## Overview
 

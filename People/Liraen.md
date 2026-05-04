@@ -28,9 +28,9 @@ Described as prim and proper. Carries herself with confidence and composure, tho
 
 ### The Tower Incident
 
-**Date:** Session 6  
+**Date:** [[Session 6]]  
 **Location:** Observatory Tower (unidentified)  
-**Observed by:** Kaz and Zennick  
+**Observed by:** [[Kaz]] and [[Zennick]]  
 **Duration:** Approximately 2 hours of intimate activity with unknown male companion
 
 **Tower Contents:**
@@ -60,4 +60,4 @@ Active within Lyceum politics, defending her uncle's position while simultaneous
 
 ## Party Interaction
 
-**Session 6:** Observed by Kaz and Zennick at tower with mysterious companion; tower room subsequently investigated.
+**[[Session 6]]:** Observed by [[Kaz]] and [[Zennick]] at tower with mysterious companion; tower room subsequently investigated.

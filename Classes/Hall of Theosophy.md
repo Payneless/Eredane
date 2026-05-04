@@ -2,7 +2,7 @@
 
 **Instructor:** Sister Erethane  
 **Appearance:** White robes with gold trim  
-**Devotion:** Xotena  
+**Devotion:** [[Xotena]]  
 
 **Topic:** The Gods, Their Part, and Their Domains
 
