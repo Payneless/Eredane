@@ -72,16 +72,16 @@ Heavy focus on sun and moon gods ([[Lexorr]] and [[Nephy]]) in [[Skuviri Dominio
 
 **[[Ekryn]]** - War Domain
 - Domains: Smithing, Tactics, Weaponry
-- Lower Gods: [[Hatarr]] (Smithing), [[Galos]] (Tactics), Lumen (Weaponry)
+- Lower Gods: [[Hatarr]] (Smithing), [[Galos]] (Tactics), [[Lunien]] (Weaponry)
 
 **[[Mearin]]** - Dream Domain
 - Domains: Fae, Illusion, Nightmare
-- Lower Gods: [[Pandora]] (Fae), [[Vitune]] (Illusion), Vogrinz (Nightmare)
+- Lower Gods: [[Pandora]] (Fae), [[Vitune]] (Illusion), [[Vogtrix]] (Nightmare)
 
 **[[The Weaver]]** - Fate Domain
 - Domains: Chance, Time
 - Lower Gods: [[Fortuna]] (Chance), [[Eras]] (Time)
-- *Oracle vanished 2071 - haunts [[Tamuel Markath]] Markath*
+- *Oracle vanished 2071 - haunts [[Tamuel Markath]]*
 
 **[[Kethris]]** - Death Domain
 - Domains: Grave, Necromancy
@@ -91,8 +91,8 @@ Heavy focus on sun and moon gods ([[Lexorr]] and [[Nephy]]) in [[Skuviri Dominio
 
 **[[Akmera]]** - Shadow Domain
 - Domains: Abyss, Void, Misery
-- Lower Gods: [[Umbris]] (Abyss), Shadali (Void), [[Gehenna]] (Misery)
-- *One of most secretive gods*
+- Lower Gods: [[Umbris]] (Abyss), [[Shadall]] (Void), [[Gehenna]] (Misery)
+- *One of most secretive gods
 
 **[[Nyliah]]** - Trickery Domain
 - Domains: Stealth, Espionage, Deceit
@@ -102,9 +102,9 @@ Heavy focus on sun and moon gods ([[Lexorr]] and [[Nephy]]) in [[Skuviri Dominio
 
 **[[Xotena]]** - Law/Order Domain
 - Domains: Justice, Progress, Engineering, Crafting, Civilization
-- Lower Gods: [[Irasis]] (Justice), Cadius (Progress), Cuvos (Engineering), [[Tinker]] (Crafting), Ehraell (Civilization)
+- Lower Gods: [[Irasis]] (Justice), [[Cedrus]] (Progress), [[Curos]] (Engineering), [[Tinker]] (Crafting), [[Ehrasil]] (Civilization)
 - *2nd most powerful god by Ikon count*
-- [[Irasis]] followed by [[Aequorin (Merithar Starwatch)]] (Elara's mentor) - influenced her redemption philosophy
+- [[Irasis]] followed by [[Aequorin (Merithar Starwatch)]] ([[Elara Sunstride|Elara]]'s mentor) - influenced her redemption philosophy
 
 **[[Gaia]]** - Nature Domain
 - Domains: Earth, Air, Fire, Water, Plant
@@ -114,22 +114,22 @@ Heavy focus on sun and moon gods ([[Lexorr]] and [[Nephy]]) in [[Skuviri Dominio
 
 **[[Akros]]** - Arcane Domain
 - Domains: Divination, Conjuration, Enchantment, Evocation, Transmutation
-- Lower Gods: [[Aegis]] (Divination), Zyris (Conjuration), Varos (Enchantment), [[Iena]] (Evocation), [[Agryn]] (Transmutation), [[Flux]] (Transmutation)
+- Lower Gods: [[Aegis]] (Divination), [[Zyrin]] (Conjuration), [[Reval]] (Divination), [[Iena]] (Enchantment), [[Agryn]] (Transmutation), [[Flux]] (Transmutation)
 - *5th most powerful, all lesser gods were former Ikons*
 
 **[[Animos]]** - Life Domain
 - Domains: Healing, Fertility, Love, Hearth, Beast
-- Lower Gods: [[Malena]] (Healing), Radena (Fertility), [[Seraphel]] (Love), [[Eradyn]] (Hearth), Avzol (Beast)
+- Lower Gods: [[Malena]] (Healing), [[Radona]] (Fertility), [[Seraphel]] (Love), [[Eradyn]] (Hearth), [[Avzot]] (Beast)
 - *3rd most powerful god*
 - Close relationship with [[Zephyr]]
 - [[Seraphel]] maintains close ties with [[Zephyr]]
 
 **[[Tylus]]** - Light Domain
 - Domains: Sun, Moon, Art
-- Lower Gods: [[Lexorr]] (Sun), [[Nephy]] (Moon), Sennac (Art)
+- Lower Gods: [[Lexorr]] (Sun), [[Nephy]] (Moon), [[Savnac]] (Art)
 - *Most powerful god by Ikon count*
 - Cursed [[Lexorr]] and [[Nephy]] to eternal separation
-- [[Lexorr]] followed by Elara's adoptive mother Daliya
+- [[Lexorr]] followed by [[Elara Sunstride|Elara]]'s adoptive mother Daliya
 
 ## Elara Sunstride Connections
 
