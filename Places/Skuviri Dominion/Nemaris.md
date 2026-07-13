@@ -20,9 +20,19 @@
 - Legions of Flame and Dust barracks
 - Elara served in city guard here for decades
 
+**River Markets**
+
+
+**Hall of Songs**
+ - Hundreds of alcoves for professional singers and historians
+
+**Observatory of Endless Skies**
+ - Seers
+
 ## Culture
 
 - Sprawling city with trade districts
 - Thousand Wells nickname from extensive water infrastructure
 - Home to retired weapons masters
 - Mix of military, religious, and mercantile influences
+
