@@ -96,7 +96,7 @@ Elara asks Varyn Ket a question **under Zone of Truth** regarding the Lantern's 
 
 **Decision: Declined.**
 
-Varyn Ket accepts the answer and suggests the party stay uninvolved going forward. He shares a rumor: **the Empire is moving east, into the Steppes.**
+Varyn Ket accepts the answer and suggests the party stay uninvolved going forward. He shares a rumor: **the Empire is moving in the east, into the Steppes.**
 
 ---
 
