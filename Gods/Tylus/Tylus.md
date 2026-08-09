@@ -23,7 +23,7 @@ Tylus is the most powerful deity in the pantheon, governing the Light Domain whi
 **Light Domain**
 - **[[Lexorr]]** - Sun (The Sun Father)
 - **[[Nephy]]** - Moon (The Moon Huntress)
-- **[[Sennac]]** - Art
+- **[[Savnac]]** - Art
 
 ## Power & Influence
 

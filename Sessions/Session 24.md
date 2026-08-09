@@ -8,17 +8,13 @@ Talking about Lantern's Circle
 
 **In-Game Date**
 
+
 **Start Location**
 
-Namaris
+[[Nemaris]]
 
-**Objective**
 
 ---
-
-Characters Mentioned
-
-Items Founds
 
 # **Session Info**
 
@@ -92,7 +88,7 @@ Zennick does, Kaz observes the stars in a different place
 "His discovery of prophecy, wasn't that it was failing, but that someone was editing the questions, not the answers. If no one truly knows what to ask, then what existence is truth. His research, his goals, far loftier than mine. He had far greater goals and calling, I think, or some say is a blessing, to be called for such lofty goals, but I do not know if all would see it that way."  
 As we pass by the Hall of songs on our way back.  
 A man hums a song, stops, repeats the same part of the song, stops again.  
-"How does the second verse of the song go again? The ...hmm.hmm..hmm, and no one else seems to remember"  
+"How does the second verse of the song go again? The ...hmm...hmm..hmm, and no one else seems to remember"  
   
 God: Jazzeh, Hailie,  
 No-god: Cye, Lily, Meli, Jake,

@@ -167,10 +167,10 @@ A crystal wall stands before us.
 
 [[Elara Sunstride|Elara]] and [[Kaz]] reach out and place their hands on the wall. A vision appears:
 
-- A silver-lit city floating above the world - ?
+- A silver-lit city floating above the world - ? The heavens, mortals picture for it from pre-Divine War
 - A river of light splitting like a prism - ?
 - A woman with no face weaving a golden thread - Probably the Weaver?
-- Nine shadows trying to break the weave from below - Lantern's circle?
+- Nine shadows trying to break the weave from below?
 - A lantern between them - See above
 
 ---
