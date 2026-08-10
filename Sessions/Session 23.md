@@ -48,7 +48,7 @@ Not someone [[Elara Sunstride]] just visits or sees, quite weird predicament
 [[Richard]] makes pudding  
 Head to observatory for meeting  
   
-Scholarly robes, his eyes pale white, High Seer Caelyn  
+Scholarly robes, his eyes pale white, [[High Seer Kaelin of the Twin Flames]]
 He sensed we came here with a purpose, looking for something  
 
 [[Zennick]] asks about special engineers, involved with mechanical pursuits  

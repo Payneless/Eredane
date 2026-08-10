@@ -22,7 +22,7 @@ Mearin governs the Dream Domain, embodying visions, illusions, nightmares, and t
 **Dream Domain**
 - **[[Pandora]]** - Fae
 - **[[Vitune]]** - Illusion
-- **[[Vogrinz]]** - Nightmare
+- **[[Vogtrix]]** - Nightmare
 
 ## Divine War of the Faithful
 

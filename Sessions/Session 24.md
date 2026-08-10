@@ -82,7 +82,7 @@ Mirai has arrived at the room, "Things are happening strangely, I've been tracki
 "Another prophecy came true, but not in the way it should have"  
 Party is escorted out for them to have a talk  
 Headed out into the night sky  
-High Seer Caelyn, and before him is a very old brass instrument  
+[[High Seer Kaelin of the Twin Flames]] and before him is a very old brass instrument  
 "I would like one of you to observe through the instrument"  
 Zennick does, Kaz observes the stars in a different place  
 "His discovery of prophecy, wasn't that it was failing, but that someone was editing the questions, not the answers. If no one truly knows what to ask, then what existence is truth. His research, his goals, far loftier than mine. He had far greater goals and calling, I think, or some say is a blessing, to be called for such lofty goals, but I do not know if all would see it that way."  

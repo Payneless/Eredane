@@ -24,10 +24,10 @@ Xotena governs the Law/Order Domain, embodying justice, civilization, progress, 
 
 **Law/Order Domain**
 - **[[Irasis]]** - Justice
-- **[[Cadius]]** - Progress
-- **[[Cuvos]]** - Engineering
+- **[[Cedrus]]** - Progress
+- **[[Curos]]** - Engineering
 - **[[Tinker]]** - Crafting
-- **[[Ehraell]]** - Civilization
+- **[[Ehrasil]]** - Civilization
 
 ## Power & Influence
 

@@ -43,7 +43,7 @@ Ronan asks about why all of what has happened hasn't left a trace.
 Goodnight time!  
   
 Mirai requests us with urgency  
-High seer says "A prophecy has died"  
+[[High Seer Kaelin of the Twin Flames]] says "A prophecy has died"  
 The observatory doesn't record prophecies, whenever they see a vision of fate, inscribed upon moonstone, resonates with the vision.  
 They have thousands in archives, some centuries old, some near weeks  
 The one we read says "When the river refuses the sea...."  
