@@ -81,3 +81,6 @@ Unknown and not understandable language, but looks like language in writing
 The wind stopped  
 A figure standing on a rooftop, wrapped in black desert clothing, and salutes us, and vanishes  
 The same circular symbol with outer circle on the wall below, and a mark below we don't recognize
+
+
+HI JAKE PAYNE
