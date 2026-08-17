@@ -54,22 +54,22 @@ Empire has advanced airship technology, have some terrifying weapons
 Gods would not intervene in war unless detrimental to survival  
   
 Meet with head of House Al-veyr  
-Khaleem  
+[[Kadeem Al-veyr]]  
 Seems to know something is off  
 One of his sons disappeared a number of months ago, younger son  
-Rashan, the name of the son  
+Rashan Al-veyr, the name of the son  
 Permission to look in the son's room  
-Khaleem seems to want to clear name from the circumstances, working with us, concerned about how much business will be affected  
+[[Kadeem Al-veyr]]] seems to want to clear name from the circumstances, working with us, concerned about how much business will be affected  
 Investigating around the room, strange star charts, copied documents, strange sketches of ritual circles, abyssal calligraphy texts, multiple references to "the Return" and "Break the Chain"  
 Umbris is referenced as a "chained beast"  
 The last time Umbris had free reign was Divine War  
-Alarian says although we see this, the more we learn.. and basically states that it's probably Umbris  
+[[Alarian]] says although we see this, the more we learn.. and basically states that it's probably Umbris  
 
-Myst, goddess of stealth, ascended, once an Ikon for Akmera  
+[[Myst]], goddess of stealth, ascended, once an Ikon for Akmera  
 persuaded to join trickery domain instead, Akmera pissed about it
 
-Seeing Dominion, associated with trickery domain, tied with Umbris is curious  
-Again, Ronan says Akmera didn't seem to believe Umbris was behind it  
+Seeing Dominion, associated with trickery domain, tied with [[Umbris]] is curious  
+Again, Ronan says [[Akmera]] didn't seem to believe [[Umbris]] was behind it  
   
 Another parchment found  
 Two circles, one above another

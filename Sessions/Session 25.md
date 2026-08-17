@@ -13,7 +13,7 @@ Find why event's are disappearing
 
 Fortuna listens in on Ronan and Elara's conversation
 
-"Fates are being erased/changed" Alarian theory mostly correct, not so simple  
+"Fates are being erased/changed" [[Alarian]] theory mostly correct, not so simple  
 Lantern's circle is not connected to Fortuna, "Fate is intrinsic in everyone, while as mortals you have free will, all it does is adjust fate"  
 "Fortuna doesn't know what choice caused Seraphel's fate, but can take guesses"  
 Never been a god that has fallen from power before  
